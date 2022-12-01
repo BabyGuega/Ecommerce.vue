@@ -1,4 +1,4 @@
-# project5-shopping-bag-finished
+# Ecommerce with vue.js for study vuex, vueCLI
 
 ## Project setup
 ```
