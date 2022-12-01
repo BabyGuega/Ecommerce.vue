@@ -42,6 +42,7 @@ export default {
     addToBag(product) {
       product.quantity = 1;
       this.$store.dispatch("addToBag", product);
+      
     },
     isInBag(product) {
       return this.productsInBag.find((item) => item.id == product.id);
